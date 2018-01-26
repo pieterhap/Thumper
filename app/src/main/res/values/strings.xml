@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Thumper</string>
+    <string name="action_settings">Settings</string>
+    <string name="redLabel">Red</string>
+    <string name="greenLabel">Green</string>
+    <string name="blueLabel">Blue</string>
+    <string name="pixelButton">OK</string>
+    <string name="pixelButtonColor">COLOR</string>
+    <string name="pixelButtonOff">OFF</string>
+</resources>
